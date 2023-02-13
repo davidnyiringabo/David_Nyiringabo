@@ -1,0 +1,19 @@
+{
+    "name": "mycalculatordav-js",
+    "version": "1.0.0",
+    "main": "calc.js",
+    "description": "this is my calculator that will calculate all operations either through browser or in the code base.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon calc.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2",
+        "node": "^19.6.0",
+        "nodemon": "^2.0.20"
+    },
+    "devDependencies": {}
+
+}
